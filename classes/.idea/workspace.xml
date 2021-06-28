@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b6e633-f3ca-48c1-b2f3-f9e3770b9317" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/CalculateBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Subtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/pluralsight/calcengine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/pluralsight/calcengine/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/com/pluralsight/calcengine/MathEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/com/pluralsight/calcengine/MathEquation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pluralsight/calcengine/MathEquation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
