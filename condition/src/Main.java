@@ -23,6 +23,6 @@ public class Main {
         * Or ||
         * And && reads left and if false doesn't read right*/
 
-      
+
     }
 }
